@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ramesh Madhubhashitha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Axiata Digital Labs**
+🔭 I’m currently working on **Axiata Digital Labs**
 
-- 🌱 I’m currently learning **ML and AI**
+🌱 I’m currently learning **ML and AI**
 
-- 👯 I’m looking to collaborate on **New AI projects**
+👯 I’m looking to collaborate on **New AI projects**
 
-- 🤝 I’m looking for help with **Every one in every industry**
+🤝 I’m looking for help with **Every one in every industry**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
