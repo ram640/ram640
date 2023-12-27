@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramesh</h1>
-<h3 align="center">A passionate full-stack data scientist from Sri Lanka (Ceylon))</h3>
+<h3 align="center">A passionate full-stack data scientist from Sri Lanka (Ceylon)</h3>
 
 🔭 I’m currently working on **Axiata Digital Labs**
 
